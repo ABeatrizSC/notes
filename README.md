@@ -15,19 +15,20 @@
 
 <div align="center"> 
   <h1>Projeto Notes</h1>
-  [Sobre](#sobre)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Deploy](#deploy)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Utilizacao](#utilizacao)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Instalacoes necessarias](#instalacoes)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Contato](#contato)
+    
+  [Sobre](#sobre)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Deploy](#deploy)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Utilizacoes](#utilizacoes)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Instalacoes necessarias](#instalacoes)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Contato](#contato)
 </div>
 
 <h2 name="sobre">📝Sobre</h2>
 <ul style="display: flex; flex-direction: column; gap: 15px">
   <li>Durante a Next Level Week (NLW) da Rocketseat, foi criado uma aplicação onde é possível grabar uma nota usando áudio que será convertido em texto automaticamente;</li>
-  <li>Para o desenvolvimento, foram utilizadas tecnologias como <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">React</a>,  <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">Speech Recognition API</a>, entre outras descritas no tópico de [Utilizacao](#utilizacao).</li>
+  <li>Para o desenvolvimento, foram utilizadas tecnologias como <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">React</a>,  <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">Speech Recognition API</a>, entre outras descritas no tópico <strong>Utilizações</strong>.</li>
 </ul>
 
 <h2 name="deploy">🔗Deploy</h2>
 <p>Acesse a visualização completa do Projeto Notes <a href="#" target="_blank"> aqui</a>.</p>
 
-<h2 name="utilizacao">💻Utilização</h2></p>
+<h2 name="utilizacoes">💻Utilizações</h2></p>
 <p>Feito através do editor <a href="https://code.visualstudio.com/docs">Visual Studio Code.</a>
 <p>Tecnologias utilizadas:</p>
 <ul style="display: flex; flex-direction: column; gap: 15px">
@@ -63,9 +64,10 @@
 <h2 name="instalacoes">💾 Instalações necessárias</h2>
 <p>Para executar os seguintes comandos em seu <strong>terminal</strong>, é necessário ter o <a href="https://git-scm.com/downloads/" target="_blank">Git</a> e o <a href="https://nodejs.org/en/download/package-manager" target="_blank">Node.JS</a> (preferencialmente na versão LTS) instalados previamente e configurados.</p>
 
-<h3>Clone o repositório</h3>
-<code>git clone https://github.com/ABeatrizSC/notes.git</code>
-<p style="margin-top: 15px;">Entre na pasta do repositório:</p>
+<h3>Clone o repositório e entre em sua pasta</h3>
+<code>git clone https://github.com/ABeatrizSC/notes.git</code> 
+<br>
+<br>
 <code>cd notes</code>
 
 <h3>Instalação das dependências do projeto</h3>
@@ -73,18 +75,15 @@
 
 <h3>Inicie o servidor local utilizando o Vite.js</h3>
 <code>npm run dev</code>
-<p style="margin-top: 15px;">Dê <strong>ctrl + click </strong> no endereço de link gerado para abrir o projeto em seu navegador.</p>
+<br>
+<br>
+<p>Dê <i>ctrl + click </i> no endereço de link gerado para abrir o projeto em seu navegador.</p>
 
-<hr>
-<footer style="display:flex; flex-direction: column; align-items: center;">
-  <p name="contato" style="font-size: 17px;"><strong>Contato</strong></p>
-  <div>  
-    <a href="http://www.linkedin.com/in/anabeatrizsantuccicarmoni">
-    <img src="https://img.shields.io/badge/LinkedIn-0A78B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:anabeatrizscarmoni@gmail.com">
-    <img src="https://img.shields.io/badge/email-fff.svg?logo=gmail&logoColor=red" alt="E-mail">
-    </a>
-  </div>
-</footer>
+<h2 name="contato">🔍 Contato:</h2>
+<a href="http://www.linkedin.com/in/anabeatrizsantuccicarmoni">
+<img src="https://img.shields.io/badge/LinkedIn-0A78B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:anabeatrizscarmoni@gmail.com">
+<img src="https://img.shields.io/badge/email-fff.svg?logo=gmail&logoColor=red" alt="E-mail">
+</a>
