@@ -21,8 +21,9 @@
 
 <h2 name="sobre">📝Sobre</h2>
 <ul style="display: flex; flex-direction: column; gap: 15px">
-  <li>Durante a Next Level Week (NLW) da Rocketseat, foi criado uma aplicação onde é possível grabar uma nota usando áudio que será convertido em texto automaticamente;</li>
-  <li>Para o desenvolvimento, foram utilizadas tecnologias como <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">React</a>,  <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">Speech Recognition API</a>, entre outras descritas no tópico <strong>Utilizações</strong>.</li>
+  <li>Durante a Next Level Week (NLW) da Rocketseat, foi criado uma aplicação onde é possível gravar notas utilizando áudios que serão convertido em texto automaticamente;</li>
+  <li>Possui também outras funcionalidades, como: Busca, exclusão, validação para salvamento de notas, verificação de disponiblidade da API utilizada no navegador do usuário e uso do LocalStorage para a permanência dos dados mesmo ao recarregar a página;</li>
+  <li>No desenvolvimento, pude aprender mais sobre os conceitos do <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">ReactJS</a> e seus componentes, integração e uso da API <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">Speech Recognition</a>, o framework de estilização <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, entre outras tecnologias descritas mais detalhadamente no tópico <strong>Utilizações</strong>.</li>
 </ul>
 
 <h2 name="deploy">🔗Deploy</h2>
@@ -46,6 +47,9 @@
   </li>
   <li>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank">React.js</a>: Biblioteca Javascript que permite aos desenvolvedores criar interfaces de usuário interativas e reutilizáveis. Sua abordagem baseada em componentes facilita a construção de aplicativos web modulares e escaláveis;
+  </li>
+  <li>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">Speech Recognition API</a>: Esta interface de programa de aplicação (API) permite o reconhecimento de fala e processamento da mesma para um formato escrito;
   </li>
   <li>
     <a href="https://www.radix-ui.com/primitives/docs/overview/introduction" target="_blank">Radix UI</a>: Biblioteca de componentes UI de código aberto otimizada para desenvolvimento rápido, fácil manutenção e acessibilidade. Ela disponibiliza componentes com apenas seu funcionamento, sem nenhum visual pré-estabelecido, facilitando a implementação de estilos próprios a cada componente.
@@ -80,10 +84,10 @@
 <p>Dê <i>ctrl + click </i> no endereço de link gerado para abrir o projeto em seu navegador.</p>
 
 <h2 name="contato">🔍 Contato:</h2>
+<a href="mailto:anabeatrizscarmoni@gmail.com">
+<img src="https://img.shields.io/badge/email-fff.svg?logo=gmail&logoColor=red" alt="E-mail">
+</a>
 <a href="http://www.linkedin.com/in/anabeatrizsantuccicarmoni">
 <img src="https://img.shields.io/badge/LinkedIn-0A78B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:anabeatrizscarmoni@gmail.com">
-<img src="https://img.shields.io/badge/email-fff.svg?logo=gmail&logoColor=red" alt="E-mail">
-</a>
