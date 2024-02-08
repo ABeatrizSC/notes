@@ -56,13 +56,13 @@ https://github.com/ABeatrizSC/notes/assets/105675205/d06f6da2-a512-40df-8ba2-f94
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">Speech Recognition API</a>: Esta interface de programa de aplicação (API) permite o reconhecimento de fala e processamento da mesma para um formato escrito;
   </li>
   <li>
-    <a href="https://www.radix-ui.com/primitives/docs/overview/introduction" target="_blank">Radix UI</a>: Biblioteca de componentes UI de código aberto otimizada para desenvolvimento rápido, fácil manutenção e acessibilidade. Ela disponibiliza componentes com apenas seu funcionamento, sem nenhum visual pré-estabelecido, facilitando a implementação de estilos próprios a cada componente.
+    <a href="https://www.radix-ui.com/primitives/docs/overview/introduction" target="_blank">Radix UI</a>: Biblioteca de componentes UI de código aberto otimizada para desenvolvimento rápido, fácil manutenção e acessibilidade. Ela disponibiliza componentes com apenas seu funcionamento, sem nenhum visual pré-estabelecido, facilitando a implementação de estilos próprios a cada componente;
   </li>
   <li>
-    <a href="https://date-fns.org/docs/Getting-Started" target="_blank">Date-fns</a>: Biblioteca que facilita a manipulação de datas em navegadores e NodeJs.
+    <a href="https://date-fns.org/docs/Getting-Started" target="_blank">Date-fns</a>: Biblioteca que facilita a manipulação de datas;
   </li>
   <li>
-    <a href="https://sonner.emilkowal.ski/getting-started" target="_blank">Sonner</a>: Biblioteca ReactJS de componentes toast (alertas).
+    <a href="https://sonner.emilkowal.ski/getting-started" target="_blank">Sonner</a>: Biblioteca ReactJS de componentes toast (alertas);
   </li>
   <li>
     <a href="https://vitejs.dev/guide/" target="_blank">ViteJS</a>: É um build tool que permite um desenvolvimento rápido para projetos web. Ele simula um servidor durante o desenvolvimento para melhorar o desempenho e a produtividade.
