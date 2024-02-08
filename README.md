@@ -19,6 +19,10 @@
   [Sobre](#sobre)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Deploy](#deploy)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Utilizacoes](#utilizacoes)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Instalacoes necessarias](#instalacoes)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Contato](#contato)
 </div>
 
+
+https://github.com/ABeatrizSC/notes/assets/105675205/d06f6da2-a512-40df-8ba2-f94f1a807c9f
+
+
 <h2 name="sobre">📝Sobre</h2>
 <ul style="display: flex; flex-direction: column; gap: 15px">
   <li>Durante a Next Level Week (NLW) da Rocketseat, foi criado uma aplicação onde é possível gravar notas utilizando áudios que serão convertido em texto automaticamente;</li>
@@ -27,7 +31,7 @@
 </ul>
 
 <h2 name="deploy">🔗Deploy</h2>
-<p>Acesse a visualização completa do Projeto Notes <a href="#" target="_blank"> aqui</a>.</p>
+<p>Acesse a visualização completa do Projeto Notes <a href="https://notes-three-sooty.vercel.app/" target="_blank"> aqui</a>.</p>
 
 <h2 name="utilizacoes">💻Utilizações</h2></p>
 <p>Feito através do editor <a href="https://code.visualstudio.com/docs">Visual Studio Code.</a>
