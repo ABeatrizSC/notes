@@ -25,7 +25,7 @@ https://github.com/ABeatrizSC/notes/assets/105675205/d06f6da2-a512-40df-8ba2-f94
 
 <h2 name="sobre">📝Sobre</h2>
 <ul style="display: flex; flex-direction: column; gap: 15px">
-  <li>Durante a Next Level Week (NLW) da Rocketseat, foi criado uma aplicação onde é possível gravar notas utilizando áudios que serão convertido em texto automaticamente;</li>
+  <li>Durante a Next Level Week (NLW) da Rocketseat, foi criado uma aplicação onde é possível gravar notas utilizando áudios que serão convertidos em texto automaticamente;</li>
   <li>Possui também outras funcionalidades, como: Busca, exclusão, validação para salvamento de notas, verificação de disponiblidade da API utilizada no navegador do usuário e uso do LocalStorage para a permanência dos dados mesmo ao recarregar a página;</li>
   <li>No desenvolvimento, pude aprender mais sobre os conceitos do <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">ReactJS</a> e seus componentes, integração e uso da API <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition" target="_blank">Speech Recognition</a>, o framework de estilização <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, entre outras tecnologias descritas mais detalhadamente no tópico <strong>Utilizações</strong>.</li>
 </ul>
